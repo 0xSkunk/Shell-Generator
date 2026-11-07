@@ -23,7 +23,7 @@ Designed for **CTFs, pentesting labs, and authorized security testing environmen
 
 ## 🌐 Demo
 
-- **GitHub Pages**: [https://0xskunk.github.io/shell-generator/](https://0xskunk.github.io/shell-generator/)
+- **GitHub Pages**: [https://0xskunk.github.io/Shell-Generator/](https://0xskunk.github.io/Shell-Generator/)
 
 ---
 
